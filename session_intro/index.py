@@ -1,0 +1,5 @@
+print ('toi la duc')
+print(15)
+print(2004)
+print('0979766636')
+print('THPT KHTN')
